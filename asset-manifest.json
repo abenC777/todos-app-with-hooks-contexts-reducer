@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todos-app-with-hooks-contexts-reducer/static/css/main.34de6062.chunk.css",
+    "main.js": "/todos-app-with-hooks-contexts-reducer/static/js/main.3d57d536.chunk.js",
+    "main.js.map": "/todos-app-with-hooks-contexts-reducer/static/js/main.3d57d536.chunk.js.map",
+    "runtime~main.js": "/todos-app-with-hooks-contexts-reducer/static/js/runtime~main.43763a16.js",
+    "runtime~main.js.map": "/todos-app-with-hooks-contexts-reducer/static/js/runtime~main.43763a16.js.map",
+    "static/js/2.6bb7264e.chunk.js": "/todos-app-with-hooks-contexts-reducer/static/js/2.6bb7264e.chunk.js",
+    "static/js/2.6bb7264e.chunk.js.map": "/todos-app-with-hooks-contexts-reducer/static/js/2.6bb7264e.chunk.js.map",
+    "index.html": "/todos-app-with-hooks-contexts-reducer/index.html",
+    "precache-manifest.9f269fe5db7d7e8ded0071178ca33cc0.js": "/todos-app-with-hooks-contexts-reducer/precache-manifest.9f269fe5db7d7e8ded0071178ca33cc0.js",
+    "service-worker.js": "/todos-app-with-hooks-contexts-reducer/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/todos-app-with-hooks-contexts-reducer/static/css/main.34de6062.chunk.css.map"
+  }
+}
